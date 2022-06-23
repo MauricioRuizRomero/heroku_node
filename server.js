@@ -16,8 +16,7 @@ app.all('*',function(req, res, next){
 app.get("/api", function (req, res) {
     res.send(
         {
-         msg: 'Hello',
-         content: 'Welcome to my API :)'
+         msg: 'Waddup faggot',
          });
 });
 
